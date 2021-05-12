@@ -1,6 +1,6 @@
-echo "# projects" >> README.md
+echo "Ovdje cu nesto da napisem" >> README2.md
 git init
-git add README.md
+git add README2.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Daka-hub/projects.git
