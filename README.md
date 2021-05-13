@@ -1,4 +1,4 @@
-echo "Ovdje cu nesto da napisem" >> README2.md
+echo "Nothing here" >> README2.md
 git init
 git add README2.md
 git commit -m "first commit"
